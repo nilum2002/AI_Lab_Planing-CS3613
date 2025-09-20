@@ -21,7 +21,7 @@ In PDDL there are two files called "domain" and "problem"
 
 Try to run this on VSCode. This youtube playlist will help you ! [click here](https://youtu.be/_NOVa4i7Us8?si=eW1UW2okvmrFEdwp)
 
-For more details plese go to the [link](https://planning.wiki/ref/pddl/domain) here! <br>
+For more details please go to the [link](https://planning.wiki/ref/pddl/domain) here! <br>
 
 Good Luck !
 
