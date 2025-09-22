@@ -1,0 +1,18 @@
+Plan found:
+0.00000: (move c11 c21)
+0.00100: (move c21 c22)
+0.00200: (move c22 c23)
+0.00300: (move c23 c33)
+0.00400: (move c33 c43)
+0.00500: (move c43 c42)
+0.00600: (pickup c42)
+0.00700: (move c42 c43)
+0.00800: (move c43 c33)
+0.00900: (move c33 c23)
+0.01000: (move c23 c22)
+0.01100: (move c22 c21)
+0.01200: (move c21 c11)
+Metric: 0.012000000000000004
+Makespan: 0.012000000000000004
+States evaluated: undefined
+Planner found 1 plan(s) in 9.14secs.
