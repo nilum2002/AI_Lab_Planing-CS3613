@@ -1,0 +1,11 @@
+Plan found:
+0.00000: (move rooma roomb)
+0.00100: (move roomb roomd)
+0.00200: (pickup t roomd)
+0.00300: (move roomd roomb)
+0.00400: (move roomb rooma)
+0.00500: (drop t rooma)
+Metric: 0.005
+Makespan: 0.005
+States evaluated: undefined
+Planner found 1 plan(s) in 9.18secs.
