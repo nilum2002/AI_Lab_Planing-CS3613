@@ -1,0 +1,6 @@
+Plan found:
+0.00000: (move rooma roomb)
+Metric: 0
+Makespan: 0
+States evaluated: undefined
+Planner found 1 plan(s) in 10.816secs
