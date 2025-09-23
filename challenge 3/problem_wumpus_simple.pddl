@@ -8,7 +8,7 @@
 (:init
     ;todo: put the initial state's facts and numeric values here
     (agent-at c11 )
-    (wumpus-at c12)
+    (wumpus-at c13)
     
     (pit-at c24)
     (pit-at c31)
